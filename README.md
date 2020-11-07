@@ -2,6 +2,15 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.5.
 
+# WARNING
+I had to remove invalid character #private; in the following files node_modules\vis-data\declarations\queue.d.ts
+node_modules\vis-data\declarations\data-set.part.d.ts
+node_modules\vis-data\declarations\data-view.d.ts
+node_modules\vis-data\declarations\data-pipe.d.ts
+node_modules\vis-data\declarations\data-set.d.ts
+node_modules\vis-data\declarations\data-stream.d.ts
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
